@@ -1,35 +1,31 @@
 # Basic
-title: 潘柏信
+title: 李佳文
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: lijwchn
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 电子信息 / 编程
+url: "https://lijwchn.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    # weibo: 5366874726 
+    github: lijwchn
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: lijwchn@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+    id: c0245fe05a1434ede740dad914ceab23  
 
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
